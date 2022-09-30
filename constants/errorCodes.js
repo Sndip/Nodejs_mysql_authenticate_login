@@ -1,0 +1,3 @@
+exports.DATABASE_ERROR = 300;
+exports.ACCOUNT_LOCKED = 301;
+exports.INVALID_USER_PASSWORD = 302;
